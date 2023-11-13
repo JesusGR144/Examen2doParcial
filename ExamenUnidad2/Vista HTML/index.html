@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de libros</title>
+</head>
+<body>
+    <h1>Librería Siglo XXI</h1>
+    <h3>Listado de libros</h3>
+    <div class="search-container">
+        
+        <input type="text" id="search" oninput="filterBooks()" placeholder="Búsqueda por título">
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>Título</th>                
+                <th>Capítulos</th>
+                <th>Páginas</th>
+                <th>Precio</th>
+		<th>Autor</th>
+            </tr>
+        </thead>
+        <tbody id="bookList">
+        </tbody>
+    </table>
+
+    <script src="main.js"></script>
+</body>
+</html>

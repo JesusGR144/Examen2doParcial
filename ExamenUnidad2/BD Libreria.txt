@@ -1,0 +1,21 @@
+CREATE DATABASE IF NOT EXISTS libreria;
+
+USE libreria;
+
+-- Crea la tabla Authors
+CREATE TABLE IF NOT EXISTS Authors (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL
+);
+
+-- Crea la tabla Books
+CREATE TABLE IF NOT EXISTS Books (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Title VARCHAR(255) NOT NULL,
+    Chapters INT NOT NULL,
+    Pages INT NOT NULL,
+    Price DECIMAL(10, 2) NOT NULL,
+    AuthorId INT,
+    FOREIGN KEY (AuthorId) REFERENCES Authors(Id)
+);
+

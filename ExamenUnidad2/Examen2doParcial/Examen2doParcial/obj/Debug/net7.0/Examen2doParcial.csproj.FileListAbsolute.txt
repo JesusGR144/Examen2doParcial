@@ -1,0 +1,94 @@
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\appsettings.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.staticwebassets.runtime.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.exe
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.deps.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.runtimeconfig.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.pdb
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.AssemblyInfo.cs
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.RazorAssemblyInfo.cache
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.RazorAssemblyInfo.cs
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.Examen2doParcial.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.build.Examen2doParcial.props
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Examen2doParcial.props
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Examen2doParcial.props
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\scopedcss\bundle\Examen2doParcial.styles.css
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\scopedcss\projectbundle\Examen2doParcial.bundle.scp.css
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.csproj.CopyComplete
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\refint\Examen2doParcial.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.pdb
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.genruntimeconfig.cache
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\ref\Examen2doParcial.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pc\Documents\11 semestre\Desarrollo de aplicaciones\Examen 2do Parcial\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\appsettings.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.staticwebassets.runtime.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.exe
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.deps.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.runtimeconfig.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Examen2doParcial.pdb
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.AssemblyInfo.cs
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.RazorAssemblyInfo.cache
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.RazorAssemblyInfo.cs
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.Examen2doParcial.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.build.Examen2doParcial.props
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Examen2doParcial.props
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Examen2doParcial.props
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\scopedcss\bundle\Examen2doParcial.styles.css
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\scopedcss\projectbundle\Examen2doParcial.bundle.scp.css
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.csproj.CopyComplete
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\refint\Examen2doParcial.dll
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.pdb
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\Examen2doParcial.genruntimeconfig.cache
+C:\Users\Juan Manuel Gaytán\Desktop\Examen DAES\ExamenUnidad2\Examen2doParcial\Examen2doParcial\obj\Debug\net7.0\ref\Examen2doParcial.dll
